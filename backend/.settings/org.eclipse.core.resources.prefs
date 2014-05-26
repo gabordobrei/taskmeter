@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/taskmeter/wicket/AdminPage.html=UTF-8
+encoding//src/taskmeter/wicket/BasePage.html=UTF-8
+encoding//src/taskmeter/wicket/HomePage.html=UTF-8
+encoding//src/taskmeter/wicket/HoursLeaderPage.html=UTF-8
+encoding//src/taskmeter/wicket/LeaderPage.html=UTF-8
+encoding//src/taskmeter/wicket/ParticipantsLeaderPage.html=UTF-8
+encoding//src/taskmeter/wicket/WorkingHoursPage.html=UTF-8
+encoding//src/taskmeter/wicket/util/SignInPage.html=UTF-8
+encoding//src/taskmeter/wicket/util/SignInPanel.html=UTF-8
+encoding/<project>=UTF-8
